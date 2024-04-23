@@ -20,4 +20,4 @@
   - [ ] Vraag 5 willekeurige foto's van honden op: *https://dog.ceo/api/breeds/image/random/5*
   - [ ] Vraag 1 lijst van alle hondenrassen op: *https://dog.ceo/api/breeds/list/all*
   - [ ] Vraag 1 willekeurige foto van een specifiek hondenras op (bv. 'Husky'): *https://dog.ceo/api/breed/husky/images/random*
-  - [ ] Vraag 5 willekeurige foto's van een specifiek hondenras op (bv. 'Doberman'): *https://dog.ceo/api/breed/doberman/images/random/5*
+  - [ ] Vraag 5 willekeurige foto's van een specifiek hondenras op (bv. 'Doberman'): \*https://dog.ceo/api/breed/doberman/images/random/5
